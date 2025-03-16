@@ -71,7 +71,7 @@ SentinelX integrates **YOLOv8** for **real-time person detection**. The model pr
 Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to improve.
 
 ## 📬 Contact
-For any inquiries or collaborations, reach out via [GitHub](https://github.com/Harshpanday101) or [LinkedIn](www.linkedin.com/in/harshpanday101).
+For any inquiries or collaborations, reach out via [GitHub](https://github.com/Harshpanday101) or [LinkedIn](https://www.linkedin.com/in/harshpanday101/).
 
 ---
 
