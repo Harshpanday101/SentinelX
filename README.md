@@ -53,6 +53,12 @@ SentinelX integrates **YOLOv8** for **real-time person detection**. The model pr
 - Counts the number of people in the frame.
 - Displays the processed video feed with live count overlay.
 
+![IMG](https://github.com/Harshpanday101/SentinelX/blob/main/Image/img%205.jpg)
+
+![IMG](https://github.com/Harshpanday101/SentinelX/blob/main/Image/img%202.jpg)
+
+![IMG](https://github.com/Harshpanday101/SentinelX/blob/main/Image/img%201.jpg)
+
 ---
 
 ## 🔥 What's Next?
